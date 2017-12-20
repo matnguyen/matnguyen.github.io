@@ -1,24 +1,20 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Here are a few side projects I am currently working on."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Rosalind
+  link: "https://github.com/matnguyen/Rosalind"
+  tagline: "Ongoing solutions to Rosalind, a platform for Bioinformatics problems."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: Cryptopals
+  link: "https://github.com/matnguyen/Cryptopals-Crypto-Challenges"
+  tagline: "Ongoing solutions to the Cryptopals crypto challenges, a set of exercises that demonstrate real-world crypto."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: Bank-Line-Simulation
+  link: "https://github.com/matnguyen/Bank-Line-Simulation"
+  tagline: "An implementation of an event-driven simulation of a bank queue."
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Candy-Kids
+  link: "https://github.com/matnguyen/Candy-Kids"
+  tagline: "An implementation of a producer-consumer problem."
+
