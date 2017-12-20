@@ -2,7 +2,7 @@
   role: Research Assistant
   time: 2017 - Present
   company: Computational Biology and Epidemiology Lab at Simon Fraser University, Burnaby
-  details: "I''m working on a large scale project to implement a computational framework to 
+  details: "I'm working on a large scale project to implement a computational framework to 
   classify pathogens into epidemiologically related groups based on genomic data.  
   Specifically, I am working on the development of an algorithm to cluster pathogens
   using MLST (multilocus sequence typing) data obtained from core- and whole-genome analysis."
