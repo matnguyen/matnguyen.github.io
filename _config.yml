@@ -1,0 +1,38 @@
+title: Personal Website
+url: "matnguyen.github.io"
+baseurl: ""
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: Matthew Nguyen
+tagline: BSc Candidate in Bioinformatics
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'I''m a third year completing my Bachelor of Science, Joint Honors in
+Computing Science and Molecular Biology & Biochemistry (aka Bioinformatics)
+at <a href="https://www.sfu.ca/">Simon Fraser University</a>.  I am especially
+interested in the application of computational methods in health and medicine.'
+
+#sidebar links
+email: matthewnguyen.667@gmail.com
+# phone: 012 345 6789
+# website: blog.webjeda.com #do not add http://
+linkedin: matthew-nguyen-00380ab9
+github: matnguyen
+# twitter: '@webjeda'
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics: UA-83979019-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
