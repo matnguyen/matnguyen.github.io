@@ -2,6 +2,14 @@
   description: "Here are a few side projects I am currently working on."
 
 - project:
+  title: wGPA Calculator
+  link: "https://github.com/matnguyen/wGPA-calculator"
+  tagline: "Weighted GPA calculator for Canadian Medical Schools"
+- project:
+  title: Unnamed OCR Android App (currently dOCtoR)
+  link: "https://github.com/matnguyen/dOCtoR"
+  tagline: "OCR Android Application started during nwHacks 2018"
+- project:
   title: Rosalind
   link: "https://github.com/matnguyen/Rosalind"
   tagline: "Ongoing solutions to Rosalind, a platform for Bioinformatics problems."
@@ -9,12 +17,11 @@
   title: Cryptopals
   link: "https://github.com/matnguyen/Cryptopals-Crypto-Challenges"
   tagline: "Ongoing solutions to the Cryptopals crypto challenges, a set of exercises that demonstrate real-world crypto."
-- project:
-  title: Bank-Line-Simulation
-  link: "https://github.com/matnguyen/Bank-Line-Simulation"
-  tagline: "An implementation of an event-driven simulation of a bank queue."
-- project:
-  title: Candy-Kids
-  link: "https://github.com/matnguyen/Candy-Kids"
-  tagline: "An implementation of a producer-consumer problem."
-
+# - project:
+#   title: Bank-Line-Simulation
+#   link: "https://github.com/matnguyen/Bank-Line-Simulation"
+#   tagline: "An implementation of an event-driven simulation of a bank queue."
+# - project:
+#   title: Candy-Kids
+#   link: "https://github.com/matnguyen/Candy-Kids"
+#   tagline: "An implementation of a producer-consumer problem."
